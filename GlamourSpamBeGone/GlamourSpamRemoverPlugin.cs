@@ -33,7 +33,9 @@ public sealed class GlamourSpamRemoverPlugin : IDalamudPlugin
         "(projizierst|projiziert) ein",     // DE
         "Die Projektionsplatte ",           // DE
         "選択したポートレート",                // JP
-        "の外見を武具投影した"                 // JP
+        "の外見を武具投影した",                // JP
+        "已使用投影模板",                    // CN
+        "的外型投影到了"                     // CN
     ];
 
     public GlamourSpamRemoverPlugin()
